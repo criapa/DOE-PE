@@ -28,7 +28,7 @@ class DOEProcessor:
         # SEU DICIONÁRIO (Com Alison Hideo)
         self.keywords = {
             "MONITORAMENTO_PESSOAL": {
-                "termos": ["alison hideo"],
+                "termos": ["SEU NOME"],
                 "impacto": "ALTO"
             },
             "CONCURSOS_SELECOES": {

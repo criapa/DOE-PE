@@ -31,7 +31,7 @@ class DOEProcessor:
         # Estrutura: 'Categoria': {'termos': [], 'impacto': 'Alto/Médio/Baixo'}
         self.keywords = {
             "MONITORAMENTO_PESSOAL": {
-                "termos": ["alison hideo jolo silva"],
+                "termos": ["SEU NOME"],
                 "impacto": "ALTO"
             },
             "CONCURSOS_SELECOES": {
