@@ -1,0 +1,7 @@
+selenium
+pandas
+pdfplumber
+schedule
+unidecode
+streamlit
+plotly
